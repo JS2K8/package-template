@@ -1,6 +1,6 @@
 # package-template
 
-A template for publishing a React + TypeScript package to npm
+A template for publishing a React package to a registry.
 
 ## How to use
 
