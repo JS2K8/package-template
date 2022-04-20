@@ -1,6 +1,6 @@
 {
   "name": "package-template",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A template for publishing a React package",
   "license": "Apache-2.0",
   "main": "dist/index.js",

@@ -6,6 +6,8 @@ A template for publishing a React package to a registry.
 
 Edit the `package.json` along with every other required file to match your project.
 
+Make sure "peerDependencies" are using semver ranges or you may have to --force the installing of a package.
+
 To compile your code once, run
 
 - `npm run build`.
